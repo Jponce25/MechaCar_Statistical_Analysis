@@ -82,3 +82,9 @@ Multiple linear regression builds a linear regression model with two or more ind
 ### •	What data is needed to run the statistical test?
 
 A random sample of n > 30 for MechaCar and their competitor, would need to be collected including the dependent variable and all the independent variable.
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> d1780c84f24e0ef8832f8393d73af6966332348b
